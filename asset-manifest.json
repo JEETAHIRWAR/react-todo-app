@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-todo-app/static/css/main.d5dcd2d9.css",
+    "main.js": "/react-todo-app/static/js/main.116b0d02.js",
+    "static/media/poppins-all-400-normal.woff": "/react-todo-app/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/poppins-all-600-normal.woff": "/react-todo-app/static/media/poppins-all-600-normal.ef66d5cebf31c6a23603.woff",
+    "static/media/poppins-all-500-normal.woff": "/react-todo-app/static/media/poppins-all-500-normal.4716bc1dd9f51751d3ef.woff",
+    "static/media/poppins-all-700-normal.woff": "/react-todo-app/static/media/poppins-all-700-normal.34a71a4b9d011ddf66e9.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/react-todo-app/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-devanagari-600-normal.woff2": "/react-todo-app/static/media/poppins-devanagari-600-normal.3343afa6b8c01e48a23b.woff2",
+    "static/media/poppins-devanagari-700-normal.woff2": "/react-todo-app/static/media/poppins-devanagari-700-normal.349ed9fa39221b45ae9a.woff2",
+    "static/media/poppins-devanagari-500-normal.woff2": "/react-todo-app/static/media/poppins-devanagari-500-normal.f43b6ebf46ee6fba0555.woff2",
+    "static/media/poppins-latin-600-normal.woff2": "/react-todo-app/static/media/poppins-latin-600-normal.91145014c0350c248ed2.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/react-todo-app/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-700-normal.woff2": "/react-todo-app/static/media/poppins-latin-700-normal.d86662fe776dae29ea78.woff2",
+    "static/media/poppins-latin-500-normal.woff2": "/react-todo-app/static/media/poppins-latin-500-normal.08491d3f7fe7ae88ef44.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/react-todo-app/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/poppins-latin-ext-600-normal.woff2": "/react-todo-app/static/media/poppins-latin-ext-600-normal.d08f0891e438248ce419.woff2",
+    "static/media/poppins-latin-ext-500-normal.woff2": "/react-todo-app/static/media/poppins-latin-ext-500-normal.b59bcdf2f050e663ca29.woff2",
+    "static/media/poppins-latin-ext-700-normal.woff2": "/react-todo-app/static/media/poppins-latin-ext-700-normal.63d2a69665d58b22ceea.woff2",
+    "index.html": "/react-todo-app/index.html",
+    "main.d5dcd2d9.css.map": "/react-todo-app/static/css/main.d5dcd2d9.css.map",
+    "main.116b0d02.js.map": "/react-todo-app/static/js/main.116b0d02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5dcd2d9.css",
+    "static/js/main.116b0d02.js"
+  ]
+}
