@@ -4,7 +4,7 @@
 
 A complete todo application with all features.
 
-**live demo: [https://jeet00007.github.io/react-todo-app/](https://jeet00007.github.io/react-todo-app/)**
+**live demo: [https://jeetahirwar.github.io/react-todo-app/](https://jeetahirwar.github.io/react-todo-app/)**
 
 
 
@@ -12,13 +12,13 @@ A complete todo application with all features.
 
 ### Made with ❤️ by [Jeet Ahirwar](https://www.instagram.com/_jeet__007_/)
 
-Like my works and want to support me?
+Like my work and want to support me?
 
 ---
 
 ## Project Description
 
-In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`. This will be a complete `beginner` friendly app. Hope you enjoy it.
+In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`. Also, we will learn to make simple animations using `Framer Motion`. This will be a completely `beginner` friendly app. Hope you enjoy it.
 
 ## What we are going to learn/use
 
